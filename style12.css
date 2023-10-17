@@ -1,0 +1,42 @@
+html{
+    background: linear-gradient(90deg, rgb(217, 238, 220) 0%, rgb(123, 218, 151) 100%);
+}
+
+h1{
+    color: forestgreen;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    color:darkolivegreen
+}
+h2{
+    text-align: center;
+    line-height: 2.0;
+    font-size: 30px;
+}
+
+p{
+    color: darkcyan;
+    line-height: 1.8;
+}    
+
+ul{
+    color: darkcyan;
+    line-height: 1.5;
+}
+
+h3{
+    color: darkgreen;
+    font-size: 22px;
+}
+
+ol{
+    color:darkolivegreen ;
+    line-height: 1.5;
+}
+
+img {
+    width: 500px;
+}
